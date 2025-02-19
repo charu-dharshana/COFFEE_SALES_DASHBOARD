@@ -21,7 +21,7 @@ This project presents a **Coffee Sales Dashboard** built using **Excel**, provid
 
 ## Dashboard Preview
 
-*(Attach a screenshot of your Excel dashboard here!)*
+![Coffee Sales Dashboard](Images/COFFEE_SALES_DASHBOARD.jpeg)
 
 ## How to Use
 
